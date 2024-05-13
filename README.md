@@ -4,7 +4,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/giovanni-jo-oliveira/giovanni-jo-oliveira/blob/main/img/header2.png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/giovanni-jo-oliveira/giovanni-jo-olviera/blob/main/img/header.png?raw=true?raw=true"/>
 </div>
 
 -----
